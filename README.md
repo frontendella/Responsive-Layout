@@ -11,4 +11,4 @@
 * Justify-content & align-items
 * Flex-direction (switching the main axis) 
 * Media queries
-* How to build (and style) a navigation 
+* Navigation built and styled
