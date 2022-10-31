@@ -3,7 +3,7 @@
 
 ## Mobile screen version
 
-<img align="right" src="https://user-images.githubusercontent.com/82247833/198908974-a43e7bab-d056-4265-b750-e60aa3c0fcee.jpeg" width="400">
+[<img align="right" src="https://user-images.githubusercontent.com/82247833/198908974-a43e7bab-d056-4265-b750-e60aa3c0fcee.jpeg" width="400">](https://frontendella.github.io/Responsive-Layout/)
 
 ### Description
 
